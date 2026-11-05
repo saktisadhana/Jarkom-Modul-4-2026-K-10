@@ -749,5 +749,4 @@ Dalam step ini kami menjalankan ping dari Command Prompt node untuk jalur-jalur 
 
 ### Catatan
 
-- Sheet VLSM di spreadsheet (untuk GNS3) belum memuat subnet Copland > Juri (31 host, 32 IP, /26). Baris ini perlu ditambahkan kalau topologi GNS3 juga memuat Juri.
 - Cyberia memakai `ip address dhcp` ke Cloud0. Di CPT, Cloud tidak memberi DHCP, jadi koneksi ke luar topologi tidak diuji di CPT.
